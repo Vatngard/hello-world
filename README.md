@@ -1,4 +1,5 @@
 # hello-world
 Tutorium
 
-I am EPICNESS. Call me Vatn.
+This is Epicness. 
+Call me Vatn.
